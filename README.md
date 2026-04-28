@@ -1,11 +1,11 @@
-# AIVOA HCP CRM AI-First Module
+# AI CRM System
 
 This repository contains a production-quality implementation of an AI-first CRM module for Healthcare Professionals (HCPs), specifically a "Log Interaction Screen" that supports both structured form entry and a conversational AI chat interface.
 
 ## Tech Stack
-- **Frontend**: React (Vite, TypeScript), Redux Toolkit, Vanilla CSS (Premium Dark Mode).
+- **Frontend**: React (Vite, TypeScript), Redux Toolkit, Vanilla CSS (Premium Light Mode).
 - **Backend**: Python, FastAPI.
-- **AI Agent**: LangGraph with Groq (Gemma-2-9b).
+- **AI Agent**: LangGraph with Groq (Llama-3.3-70b).
 - **Database**: PostgreSQL (SQLAlchemy models provided).
 - **Typography**: Google Inter Font.
 
